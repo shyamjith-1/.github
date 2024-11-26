@@ -1,0 +1,13 @@
+{
+    "name": "Shyam's org workflow",
+    "description": "Octo Organization CI workflow template.",
+    "iconName": "repo-pull",
+    "categories": [
+        "test"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
